@@ -13,9 +13,6 @@
 [submodule "subrepos/GoodFoodWebAdmin"]
 	path = subrepos/GoodFoodWebAdmin
 	url = https://github.com/GoodFood-MAALSI/GoodFoodWebAdmin.git
-[submodule "subrepos/GoodFoodWebRestaurateur"]
-	path = subrepos/GoodFoodWebRestaurateur
-	url = https://github.com/GoodFood-MAALSI/GoodFoodWebRestaurateur.git
 [submodule "subrepos/GoodFoodDelivery"]
 	path = subrepos/GoodFoodDelivery
 	url = https://github.com/GoodFood-MAALSI/GoodFoodDelivery.git
