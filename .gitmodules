@@ -43,3 +43,6 @@
 [submodule "subrepos/GoodFoodWebRestaurateur"]
 	path = subrepos/GoodFoodWebRestaurateur
 	url = https://github.com/GoodFood-MAALSI/GoodFoodWebRestaurateur
+[submodule "subrepos/GoodFoodAccess"]
+	path = subrepos/GoodFoodAccess
+	url = https://github.com/GoodFood-MAALSI/GoodFoodAccess.git
