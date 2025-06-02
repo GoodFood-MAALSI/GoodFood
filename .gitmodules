@@ -25,9 +25,6 @@
 [submodule "subrepos/GoodFoodAdmin"]
 	path = subrepos/GoodFoodAdmin
 	url = https://github.com/GoodFood-MAALSI/GoodFoodAdmin.git
-[submodule "subrepos/GoodFoodNotifs"]
-	path = subrepos/GoodFoodNotifs
-	url = https://github.com/GoodFood-MAALSI/GoodFoodNotifs.git
 [submodule "subrepos/GoodFoodOrder"]
 	path = subrepos/GoodFoodOrder
 	url = https://github.com/GoodFood-MAALSI/GoodFoodOrder.git
@@ -36,13 +33,13 @@
 	url = https://github.com/GoodFood-MAALSI/GoodFoodRestaurateur.git
 [submodule "GoodFoodDeployment"]
 	path = GoodFoodDeployment
-	url = https://github.com/GoodFood-MAALSI/GoodFoodDeployment
+	url = https://github.com/GoodFood-MAALSI/GoodFoodDeployment.git
 [submodule "subrepos/GoodFoodDeployment"]
 	path = subrepos/GoodFoodDeployment
-	url = https://github.com/GoodFood-MAALSI/GoodFoodDeployment
+	url = https://github.com/GoodFood-MAALSI/GoodFoodDeployment.git
 [submodule "subrepos/GoodFoodWebRestaurateur"]
 	path = subrepos/GoodFoodWebRestaurateur
-	url = https://github.com/GoodFood-MAALSI/GoodFoodWebRestaurateur
+	url = https://github.com/GoodFood-MAALSI/GoodFoodWebRestaurateur.git
 [submodule "subrepos/GoodFoodAccess"]
 	path = subrepos/GoodFoodAccess
 	url = https://github.com/GoodFood-MAALSI/GoodFoodAccess.git
